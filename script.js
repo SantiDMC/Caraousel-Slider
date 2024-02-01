@@ -1,3 +1,4 @@
+//i like to waste time :D
 const swiper = new Swiper(".mySwiper", {
   effect: "coverflow",
   grabCursor: true,
